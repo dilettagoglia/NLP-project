@@ -43,6 +43,6 @@ Per ognuno dei due corpora estrarre le seguenti informazioni:
 # Run
 I due programmi prendono in input i corpora da riga di comando e restituiscono l'output nei due file di risultato.
 
-> > > python programma1.py clinton trump > risultato1
-> > > python programma2.py clinton trump > risultato2
+python programma1.py clinton trump > risultato1
+python programma2.py clinton trump > risultato2
 
