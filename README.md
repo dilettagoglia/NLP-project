@@ -17,6 +17,12 @@ Confrontare i due testi sulla base delle seguenti informazioni statistiche:
 - il rapporto tra sostantivi e verbi (indice che caratterizza variazioni di registro linguistico);
 - la densità lessicale, calcolata come il rapporto tra il numero totale di occorrenze nel testo di Sostantivi, Verbi, Avverbi, Aggettivi e il numero totale di parole nel testo (ad esclusione dei segni di punteggiatura marcati con POS "," "."): (|Sostantivi|+|Verbi|+|Avverbi|+|Aggettivi|)/(TOT-( |.|+|,| ) )
 
+# Run
+I due programmi prendono in input i corpora da riga di comando e restituiscono l'output nei due file di risultato.
+
+>>> python programma1.py clinton trump > risultato1
+>>> python programma2.py clinton trump > risultato2
+
 
 # Script 2
 Per ognuno dei due corpora estrarre le seguenti informazioni:
