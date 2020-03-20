@@ -8,7 +8,7 @@ Realizzazione di due programmi scritti in Python che utilizzino i moduli present
 # Fasi realizzative
 Creare due corpora in inglese contenenti i discorsi di Hillary Clinton e di Donald Trump, di almeno 5000 token ciascuno. I corpora devono essere creati selezionando i discorsi di Clinton da questa fonte e di Trump da questa fonte e salvandoli in due file di testo semplice utf-8. Sviluppare due programmi che prendono in input i due file da riga di comando, che li analizzano linguisticamente fino al Part-of-Speech tagging e che eseguono le operazioni richieste.
 
-# Programma 1
+# Script 1
 Confrontare i due testi sulla base delle seguenti informazioni statistiche:
 - il numero di token;
 - la lunghezza media delle frasi in termini di token;
@@ -18,7 +18,7 @@ Confrontare i due testi sulla base delle seguenti informazioni statistiche:
 - la densità lessicale, calcolata come il rapporto tra il numero totale di occorrenze nel testo di Sostantivi, Verbi, Avverbi, Aggettivi e il numero totale di parole nel testo (ad esclusione dei segni di punteggiatura marcati con POS "," "."): (|Sostantivi|+|Verbi|+|Avverbi|+|Aggettivi|)/(TOT-( |.|+|,| ) )
 
 
-# Programma 2
+# Script 2
 Per ognuno dei due corpora estrarre le seguenti informazioni:
 
 1. estrarre ed ordinare in ordine di frequenza decrescente, indicando anche la relativa frequenza:
