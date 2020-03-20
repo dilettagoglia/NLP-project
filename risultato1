@@ -1,0 +1,72 @@
+
+
+PROGRAMMA #1
+
+
+Il file clinton e' lungo 8156.0 token
+Il file trump e' lungo 6479.0 token
+clinton e' piu' lungo di trump
+
+Le frasi del file clinton hanno lunghezza media pari a 18.8360277136 token
+Le frasi del file trump hanno lunghezza media pari a 20.4384858044 token
+
+Il vocabolario del file clinton ha 1909 tipi
+Il vocabolario del file trump ha 1244 tipi
+clinton ha un vocabolario piu' ricco di trump
+
+Grandezza del vocabolario del file clinton all'aumento del corpus per porzioni incrementali di 1000 token:
+465
+742
+981
+1190
+1420
+1575
+1757
+1890
+1909
+1909
+
+Grandezza del vocabolario del file trump all'aumento del corpus per porzioni incrementali di 1000 token:
+371
+631
+880
+1055
+1157
+1218
+1244
+1244
+1244
+1244
+
+Notiamo dal risultato che il vocabolario tende a crescere sempre piu' lentamente.
+
+Ricchezza lessicale del file clinton all'aumento del corpus per porzioni incrementali di 1000 token:
+0.465
+0.371
+0.327
+0.2975
+0.284
+0.2625
+0.251
+0.23625
+0.212111111111
+0.1909
+
+Ricchezza lessicale del file trump all'aumento del corpus per porzioni incrementali di 1000 token:
+0.371
+0.3155
+0.293333333333
+0.26375
+0.2314
+0.203
+0.177714285714
+0.1555
+0.138222222222
+0.1244
+Piu' e' alto il valore della Type-Token-Ratio, maggiore e' la ricchezza del vocabolario
+
+Il rapporto sostantivi/verbi nel file clinton e':  1.47268408551
+Il rapporto sostantivi/verbi nel file trump e':  1.81444332999
+
+La densita' lessicale del file clinton e':  0.56704929102
+La densita' lessicale del file trump e':  0.574747474747

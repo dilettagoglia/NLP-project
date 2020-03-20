@@ -1,0 +1,429 @@
+
+
+PROGRAMMA #2
+
+
+Le 10 POS piu' frequenti del file clinton (ordinate in senso descrescente), sono:
+
+('NN', 899)
+('IN', 816)
+('DT', 661)
+('JJ', 550)
+('PRP', 479)
+('NNS', 462)
+('VB', 460)
+('NNP', 449)
+('.', 433)
+('RB', 395)
+
+
+Le 10 POS piu' frequenti del file trump (ordinate in senso descrescente), sono:
+
+('NN', 855)
+('IN', 584)
+('NNP', 558)
+('DT', 496)
+('JJ', 381)
+('VB', 370)
+('NNS', 364)
+('.', 297)
+(',', 262)
+('CC', 251)
+
+
+I 20 token piu' frequenti nel file clinton sono:
+
+(u'the', 314)
+(u'to', 313)
+(u'and', 246)
+(u'of', 150)
+(u'a', 133)
+(u'I', 120)
+(u'that', 104)
+(u'in', 93)
+(u"'s", 93)
+(u'we', 92)
+(u'for', 87)
+(u'it', 69)
+(u'our', 67)
+(u'is', 61)
+(u'will', 61)
+(u'Iran', 57)
+(u'on', 54)
+(u'have', 53)
+(u'with', 52)
+(u'as', 52)
+
+
+I 20 token piu' frequenti nel file trump sono:
+
+(u'the', 261)
+(u'and', 223)
+(u'to', 196)
+(u'of', 153)
+(u'will', 118)
+(u'a', 96)
+(u'our', 92)
+(u'for', 63)
+(u'is', 62)
+(u'in', 60)
+(u'We', 51)
+(u'we', 50)
+(u'Hillary', 49)
+(u'American', 44)
+(u'that', 41)
+(u'I', 40)
+(u'on', 37)
+(u'are', 35)
+(u'government', 33)
+(u'plan', 32)
+
+
+I 20 bigrammi piu' frequenti nel file clinton sono:
+
+((u'to', u'be'), 19)
+((u'United', u'States'), 18)
+((u'Iran', u"'s"), 17)
+((u'I', u'will'), 15)
+((u'need', u'to'), 13)
+((u'Cuban', u'people'), 12)
+((u'have', u'to'), 11)
+((u'will', u'be'), 11)
+((u'I', u'would'), 11)
+((u'it', u"'s"), 10)
+((u'It', u"'s"), 10)
+((u'I', u"'ll"), 10)
+((u'I', u"'m"), 9)
+((u'is', u'not'), 9)
+((u'want', u'to'), 8)
+((u'we', u'will'), 8)
+((u'Latin', u'America'), 8)
+((u'ca', u"n't"), 8)
+((u'I', u'believe'), 8)
+((u'we', u'need'), 8)
+
+
+I 20 bigrammi piu' frequenti nel file trump sono:
+
+((u'going', u'to'), 31)
+((u'We', u'will'), 25)
+((u'are', u'going'), 21)
+((u'we', u'will'), 18)
+((u'plan', u'to'), 17)
+((u'We', u'are'), 17)
+((u'will', u'also'), 16)
+((u'Hillary', u'Clinton'), 16)
+((u'United', u'States'), 15)
+((u'Mr.', u'Trump'), 14)
+((u'our', u'government'), 12)
+((u'rebuild', u'our'), 12)
+((u'our', u'country'), 12)
+((u'lied', u'to'), 11)
+((u'I', u'will'), 11)
+((u'we', u'are'), 10)
+((u'American', u'Voter'), 10)
+((u'illegal', u'immigration'), 10)
+((u'Trump', u'Administration'), 10)
+((u'will', u'be'), 10)
+
+
+I 20 trigrammi piu' frequenti nel file clinton sono:
+
+((u'we', u'need', u'to'), 7)
+((u'We', u'ca', u"n't"), 5)
+((u'I', u'want', u'to'), 5)
+((u'need', u'to', u'be'), 5)
+((u'We', u'have', u'to'), 4)
+((u'to', u'step', u'up'), 4)
+((u'do', u"n't", u'want'), 4)
+((u'go', u'back', u'to'), 4)
+((u'be', u'able', u'to'), 4)
+((u"'s", u'why', u'I'), 4)
+((u'Cuban', u'American', u'community'), 4)
+((u'Iran', u"'s", u'nuclear'), 3)
+((u'we', u'have', u'to'), 3)
+((u"n't", u'go', u'back'), 3)
+((u'We', u'need', u'to'), 3)
+((u'to', u'make', u'it'), 3)
+((u'ca', u"n't", u'go'), 3)
+((u'They', u'do', u"n't"), 3)
+((u'Iran', u'tries', u'to'), 2)
+((u'we', u"'ve", u'got'), 2)
+
+
+I 20 trigrammi piu' frequenti nel file trump sono:
+
+((u'are', u'going', u'to'), 21)
+((u'We', u'are', u'going'), 14)
+((u'We', u'will', u'also'), 10)
+((u'Trump', u'Administration', u'will'), 9)
+((u'Mr.', u'Trump', u'will'), 9)
+((u'biggest', u'tax', u'cut'), 7)
+((u'made', u'13', u'phones'), 7)
+((u'lied', u'to', u'Congress'), 7)
+((u'13', u'phones', u'disappear'), 7)
+((u'to', u'15', u'percent'), 7)
+((u'deleted', u'33,000', u'emails'), 6)
+((u'Radical', u'Islamic', u'Terrorists'), 6)
+((u'keep', u'Radical', u'Islamic'), 6)
+((u'to', u'bring', u'back'), 6)
+((u'unnecessary', u'job-killing', u'regulation'), 5)
+((u'we', u'are', u'going'), 5)
+((u'rebuild', u'our', u'military'), 5)
+((u'Supreme', u'Court', u'who'), 5)
+((u'who', u'will', u'uphold'), 5)
+((u'reduce', u'surging', u'crime'), 5)
+
+
+I 20 bigrammi aggettivo-sostantivo con probabilita' condizionata massima nel file clinton sono:
+
+((u'malicious', u'activity'), 1.0)
+((u'uranium', u'enrichment'), 1.0)
+((u'Israel-or', u'talks'), 1.0)
+((u'fifty', u'years'), 1.0)
+((u'bright', u'future'), 1.0)
+((u'interim', u'agreement'), 1.0)
+((u'multilateral', u'talks'), 1.0)
+((u'abundant', u'energy'), 1.0)
+((u'religious', u'groups'), 1.0)
+((u'previous', u'attempts'), 1.0)
+((u'21st', u'century'), 1.0)
+((u'northern', u'Israel'), 1.0)
+((u'allies-including', u'intelligence'), 1.0)
+((u'courageous', u'Ladies'), 1.0)
+((u'only', u'answer'), 1.0)
+((u'compelling', u'advertisement'), 1.0)
+((u'advanced', u'radar'), 1.0)
+((u'constant', u'threat'), 1.0)
+((u'enhanced-our', u'capacity'), 1.0)
+((u'executive', u'authority'), 1.0)
+
+
+I 20 bigrammi aggettivo-sostantivo con probabilita' condizionata massima nel file trump sono:
+
+((u'executive', u'branch'), 1.0)
+((u'Public', u'Corruption'), 1.0)
+((u'Congressional', u'Subpoena'), 1.0)
+((u'previous', u'deportation'), 1.0)
+((u'Democratic', u'policies'), 1.0)
+((u'longstanding', u'ties'), 1.0)
+((u'failed', u'elites'), 1.0)
+((u'Clinton-backed', u'deal'), 1.0)
+((u'civil', u'rights'), 1.0)
+((u'easy', u'way'), 1.0)
+((u'congressional', u'seats'), 1.0)
+((u'real', u'change'), 1.0)
+((u'confidential', u'information'), 1.0)
+((u'spur', u'innovation'), 1.0)
+((u'advanced', u'manufacturing'), 1.0)
+((u'Pay-For-Play', u'scheme'), 1.0)
+((u'Trump', u'Administration'), 1.0)
+((u'middle-class', u'family'), 1.0)
+((u'unnecessary', u'job-killing'), 1.0)
+((u'common', u'core'), 1.0)
+
+
+I 20 bigrammi aggettivo-sostantivo con probabilita' congiunta massima nel file clinton sono:
+
+((u'nuclear', u'weapons'), 0.0006130456105934282)
+((u'Cuban', u'American'), 0.0004904364884747424)
+((u'human', u'rights'), 0.0003678273663560569)
+((u'foreign', u'policy'), 0.0003678273663560569)
+((u'civil', u'society'), 0.0003678273663560569)
+((u'next', u'president'), 0.0003678273663560569)
+((u'long', u'time'), 0.00036782736635605686)
+((u'American', u'leadership'), 0.00036782736635605686)
+((u'nuclear', u'program'), 0.00036782736635605686)
+((u'global', u'coalition'), 0.0002452182442373713)
+((u'broader', u'Iran'), 0.0002452182442373713)
+((u'failed', u'policy'), 0.0002452182442373713)
+((u'bad', u'behavior'), 0.0002452182442373713)
+((u'bad', u'actors'), 0.0002452182442373713)
+((u'free', u'expression'), 0.0002452182442373713)
+((u'many', u'others'), 0.0002452182442373713)
+((u'additional', u'steps'), 0.0002452182442373713)
+((u'political', u'prisoners'), 0.0002452182442373713)
+((u'dangerous', u'path'), 0.0002452182442373713)
+((u'Iranian', u'aggression'), 0.0002452182442373713)
+
+
+I 20 bigrammi aggettivo-sostantivo con probabilita' congiunta massima nel file trump sono:
+
+((u'illegal', u'immigration'), 0.001543448062972681)
+((u'American', u'Voter'), 0.0015434480629726809)
+((u'biggest', u'tax'), 0.0010804136440808766)
+((u'illegal', u'server'), 0.0007717240314863406)
+((u'unnecessary', u'job-killing'), 0.0007717240314863404)
+((u'inner', u'cities'), 0.0007717240314863404)
+((u'open', u'borders'), 0.0006173792251890724)
+((u'illegal', u'Obama'), 0.0006173792251890724)
+((u'middle', u'class'), 0.0006173792251890724)
+((u'Real', u'change'), 0.0006173792251890724)
+((u'other', u'countries'), 0.0006173792251890723)
+((u'illegal', u'conduct'), 0.00046303441889180435)
+((u'Congressional', u'Subpoena'), 0.0004630344188918043)
+((u'elected', u'President'), 0.0004630344188918043)
+((u'Republican', u'House'), 0.0004630344188918043)
+((u'email', u'evidence'), 0.0004630344188918043)
+((u'Syrian', u'Refugee'), 0.0004630344188918043)
+((u'American', u'business'), 0.0004630344188918043)
+((u'highest', u'levels'), 0.0004630344188918043)
+((u'special', u'interests'), 0.0004630344188918043)
+
+
+I 20 bigrammi aggettivo-sostantivo con forza associativa massima nel file clinton sono:
+
+((u'nuclear', u'weapons'), 39.32181521535816)
+((u'Cuban', u'American'), 37.515744863605555)
+((u'civil', u'society'), 31.226050677886327)
+((u'human', u'rights'), 29.980938180049794)
+((u'foreign', u'policy'), 28.6026433241379)
+((u'next', u'president'), 28.22605067788632)
+((u'long', u'time'), 25.04936961072562)
+((u'terrorist', u'organization'), 22.817367118590884)
+((u'nuclear', u'program'), 22.04936961072562)
+((u'honest', u'disagreements'), 21.987292120033192)
+((u'bad', u'actors'), 21.987292120033192)
+((u'American', u'leadership'), 21.55887341387698)
+((u'additional', u'steps'), 20.817367118590884)
+((u'bad', u'behavior'), 19.987292120033192)
+((u'political', u'prisoners'), 19.987292120033192)
+((u'free', u'expression'), 19.647442117148568)
+((u'dangerous', u'path'), 19.34343593025847)
+((u'Iranian', u'aggression'), 19.34343593025847)
+((u'global', u'coalition'), 18.81736711859088)
+((u'failed', u'policy'), 17.898503881316287)
+
+
+I 20 bigrammi aggettivo-sostantivo con forza associativa massima nel file trump sono:
+
+((u'illegal', u'immigration'), 75.82604101072937)
+((u'American', u'Voter'), 75.74092601217419)
+((u'biggest', u'tax'), 57.88466613782299)
+((u'unnecessary', u'job-killing'), 51.69813673790198)
+((u'inner', u'cities'), 49.27100260205077)
+((u'middle', u'class'), 41.358509390321586)
+((u'other', u'countries'), 38.129089702091164)
+((u'Real', u'change'), 37.966521764101785)
+((u'illegal', u'server'), 35.56559408885858)
+((u'open', u'borders'), 35.52078291577239)
+((u'natural', u'gas'), 33.229778825239805)
+((u'Congressional', u'Subpoena'), 33.229778825239805)
+((u'Republican', u'House'), 33.229778825239805)
+((u'Syrian', u'Refugee'), 31.984666327403275)
+((u'email', u'evidence'), 31.984666327403275)
+((u'special', u'interests'), 31.01888204274119)
+((u'clean', u'coal'), 30.739553829566745)
+((u'illegal', u'Obama'), 30.556750517757216)
+((u'highest', u'levels'), 30.229778825239805)
+((u'massive', u'inflow'), 29.562601561230466)
+
+
+Nel file clinton i 20 nomi propri di persona piu' frequenti sono:
+
+(((u'Latin', 'NNP'), (u'America', 'NNP')), 6)
+(((u'Cuba', 'NNP'),), 4)
+(((u'Obama', 'NNP'),), 4)
+(((u'Strobe', 'NNP'),), 3)
+(((u'Pope', 'NNP'), (u'Francis', 'NNP')), 2)
+(((u'Frank', 'NNP'),), 2)
+(((u'Third', 'NNP'),), 2)
+(((u'Ernie', 'NNP'), (u'Moniz', 'NNP')), 1)
+(((u'Bill', 'NNP'), (u'Burns', 'NNP')), 1)
+(((u'Putin', 'NNP'),), 1)
+(((u'Chuck', 'NNP'), (u'Schumer', 'NNP')), 1)
+(((u'Venezuela', 'NNP'),), 1)
+(((u'Frankly', 'NNP'),), 1)
+(((u'Ebola', 'NNP'),), 1)
+(((u'Tehran', 'NNP'),), 1)
+(((u'John', 'NNP'), (u'Kerry', 'NNP')), 1)
+(((u'Martin', 'NNP'),), 1)
+(((u'Capitol', 'NNP'), (u'Hill', 'NNP')), 1)
+(((u'Google', 'NNP'),), 1)
+(((u'Joe', 'NNP'),), 1)
+
+Nel file clinton i 20 nomi propri di luogo piu' frequenti sono:
+
+(((u'Iran', 'NNP'),), 55)
+(((u'American', 'JJ'),), 21)
+(((u'Israel', 'NNP'),), 21)
+(((u'United', 'NNP'), (u'States', 'NNPS')), 18)
+(((u'Cuban', 'NNP'),), 16)
+(((u'Cuba', 'NNP'),), 15)
+(((u'America', 'NNP'),), 14)
+(((u'Iranian', 'JJ'),), 10)
+(((u'Cubans', 'NNPS'),), 6)
+(((u'U.S.', 'NNP'),), 4)
+(((u'Israeli', 'NNP'),), 3)
+(((u'Havana', 'NNP'),), 3)
+(((u'Cuban', 'JJ'),), 3)
+(((u'Iranians', 'NNPS'),), 3)
+(((u'American', 'NNP'),), 3)
+(((u'Americans', 'NNPS'),), 3)
+(((u'Castro', 'NNP'),), 2)
+(((u'Yemen', 'NNP'),), 2)
+(((u'White', 'NNP'),), 2)
+(((u'Syrian', 'JJ'),), 2)
+
+
+Nel file trump i 20 nomi propri di persona piu' frequenti sono:
+
+(((u'Hillary', 'NNP'),), 28)
+(((u'Hillary', 'NNP'), (u'Clinton', 'NNP')), 16)
+(((u'Mr.', 'NNP'), (u'Trump', 'NNP')), 14)
+(((u'Obamacare', 'NNP'),), 9)
+(((u'Ronald', 'NNP'), (u'Reagan', 'NNP')), 7)
+(((u'Radical', 'NNP'), (u'Islamic', 'NNP')), 6)
+(((u'Bill', 'NNP'), (u'Clinton', 'NNP')), 2)
+(((u'Bill', 'NNP'),), 2)
+(((u'Flint', 'NNP'),), 2)
+(((u'Clinton', 'NNP'),), 2)
+(((u'Hillary', 'JJ'),), 2)
+(((u'Black', 'NNP'), (u'America', 'NNP')), 2)
+(((u'Michigan', 'NNP'),), 2)
+(((u'Currency', 'NNP'), (u'Manipulation', 'NNP')), 2)
+(((u'Real', 'NNP'),), 2)
+(((u'Naval', 'NNP'), (u'Air', 'NNP')), 1)
+(((u'Obama', 'NNP'),), 1)
+(((u'Donald', 'NNP'), (u'Trump', 'NNP')), 1)
+(((u'Coast', 'NNP'), (u'Guard', 'NNP')), 1)
+(((u'School', 'NNP'),), 1)
+
+Nel file trump i 20 nomi propri di luogo piu' frequenti sono:
+
+(((u'American', 'JJ'),), 21)
+(((u'United', 'NNP'), (u'States', 'NNPS')), 15)
+(((u'America', 'NNP'),), 14)
+(((u'American', 'NNP'),), 10)
+(((u'Washington', 'NNP'),), 9)
+(((u'China', 'NNP'),), 5)
+(((u'Middle', 'NNP'),), 4)
+(((u'Florida', 'NNP'),), 3)
+(((u'D.C.', 'NNP'),), 3)
+(((u'Pennsylvania', 'NNP'),), 2)
+(((u'Michigan', 'NNP'),), 2)
+(((u'North', 'NNP'), (u'Carolina', 'NNP')), 2)
+(((u'Arizona', 'NNP'),), 2)
+(((u'U.S.', 'NNP'),), 1)
+(((u'State', 'NNP'),), 1)
+(((u'Nevada', 'NNP'),), 1)
+(((u'Detroit', 'NNP'),), 1)
+(((u'Veterans', 'NNPS'),), 1)
+(((u'Mexico', 'NNP'),), 1)
+(((u'New', 'NNP'), (u'Navy', 'NNP')), 1)
+
+
+La frase con probabilita' piu' alta, calcolata con catena di Markov di ordine 0, nel file clinton  e':
+([u'Thank', u'you', u'.', u"''"], "-------probabilita':", 0.3333333333333333)
+
+
+La frase con probabilita' piu' alta, calcolata con catena di Markov di ordine 0, nel file trump  e':
+([u'...', u'We', u'are', u'fighting', u'to', u'unlock', u'the', u'potential', u'of', u'every', u'American', u'community', u',', u'and', u'every', u'American', u'family', u',', u'who', u'hope', u'and', u'pray', u'and', u'yearn', u'for', u'a', u'better', u'future', u'.', u"''"], "-------probabilita':", 0.0)
+
+
+La frase con probabilita' piu' alta, calcolata con catena di Markov di ordine 1, nel file clinton  e':
+('', "-------probabilita':", 0.0)
+
+
+La frase con probabilita' piu' alta, calcolata con catena di Markov di ordine 1, nel file trump  e':
+('', "-------probabilita':", 0.0)
